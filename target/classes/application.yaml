@@ -1,0 +1,5 @@
+zuul:
+  routes:
+    foos:
+      path: /productapi/**
+      serviceId: WebServiceApplicationDev
